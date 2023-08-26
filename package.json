@@ -1,0 +1,16 @@
+{
+  "name": "node_api_exemple_workshop_backend_2023_2",
+  "version": "1.0.0",
+  "description": "express api example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@pdr-tuche",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "knex": "^2.5.1",
+    "sqlite3": "^5.1.6"
+  }
+}
